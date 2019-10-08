@@ -1,0 +1,9 @@
+ESTUDAR RELACIONAMENTOS
+
+*ONETOMANY
+
+*MANYTOONE => Paciente / Agendamento
+
+*MANYTOMANY => Aluno / Curso
+
+*ONETOONE => Matricula / Pagamento
