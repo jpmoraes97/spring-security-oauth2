@@ -6,7 +6,7 @@ public class GeraSenha {
 	
 	public static void main(String[] args) {
 		BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
-		System.out.println(encoder.encode("s3cr3t"));
+		System.out.println(encoder.encode("v3ndedor"));
 	}
 
 }
